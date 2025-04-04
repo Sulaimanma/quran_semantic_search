@@ -1,2 +1,6 @@
 openai
 qdrant-client
+dotenv
+tqdm
+sklearn.cluster
+tqdm
